@@ -21,7 +21,7 @@
         }
         .video {
             margin-bottom: 20px;
-            background: #f0f8ff;
+            background: #05316E;
             padding: 20px;
             border-radius: 10px;
             box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
@@ -32,7 +32,7 @@
             border: none;
         }
         h1 {
-            color: #007BFF;
+            color: #ffffff;
             font-size: 2em;
         }
         .video h2 {
@@ -66,7 +66,7 @@
             <iframe src="https://www.youtube.com/embed/lXC0OhEKIjc" allowfullscreen></iframe>
             <div>
                 <h2>Video Title 1</h2>
-                <p class="description">This is a description for Video 1.</p>
+                <p class="description">3D Printing of landing gear.</p>
             </div>
         </div>
         <div class="video">
